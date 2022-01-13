@@ -1,0 +1,1 @@
+Used Python to build system for group chat platform. Can generate users and rooms where messages can be sent.
